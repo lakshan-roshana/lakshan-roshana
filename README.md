@@ -1,16 +1,83 @@
 <h1 align="center">Hi 👋, I'm Lakshan Roshana</h1>
-<h3 align="center">Undergraduate of Faculty of IT, University of Moratuwa.</h3>
+<h3 align="center">Aspiring Cybersecurity & Backend Engineer | Undergraduate at Faculty of IT, University of Moratuwa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshan-roshana&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan-roshana" /> </p>
-
-- 🌱 I’m currently learning **C,Java,HTML,CSS,JS**
-
-- 📫 How to reach me **lakshanroshana21@gmail.com or 0772159965**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/lakshanroshana2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakshanroshana2" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshan-roshana&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan-roshana" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+🎯 **About Me**
+
+- 🌱 Exploring **Cybersecurity**, **Backend Development**, and **Cloud Engineering**
+- 📫 Reach me at: **lakshanroshana21@gmail.com**
+- 💬 Ask me about anything related to:
+  - Backend: `ASP.NET Core`, `Node.js`
+  - Frontend: `Angular`, `HTML`, `CSS`, `JavaScript`
+  - Programming: `Java`, `Python`, `C`
+  - Databases: `MongoDB`, `MySQL`
+
+---
+
+🔗 **Connect with Me**
+
+<p align="left">
+  <a href="mailto:lakshanroshana21@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/your-link-here"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
+  <a href="https://lakshanroshana.me/"><img src="https://img.icons8.com/fluency/48/domain.png" width="40"/></a>
+</p>
+
+---
+
+🛠️ **Languages & Tools**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
+
+---
+
+### 🛡️ Cybersecurity & Problem Solving Platforms
+
+- 🧠 Currently practicing **penetration testing**, **network security**, and **Linux fundamentals** on [TryHackMe](https://tryhackme.com/p/silencewarrior)
+- 💻 Solving challenges in **algorithms, C, Java, and Python** on [HackerRank](https://www.hackerrank.com/lakshanroshana2)
+
+### 🎓 Microsoft Achievements
+
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/users/lakshanroshana-4192/achievements" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/microsoft.png" width="40" alt="Microsoft Learn"/>
+  </a>
+</p>
+
+- 🏅 Following **Microsoft Learn Paths** on `Azure`, `.NET`, and `Security Fundamentals`
+- 🔗 [View my Microsoft Learn profile](https://learn.microsoft.com/en-us/users/lakshanroshana-4192/achievements)
+
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshan-roshana&show_icons=true&theme=tokyonight" alt="Lakshan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan-roshana&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan-roshana&layout=compact&theme=tokyonight" />
+</p>
+
+---
