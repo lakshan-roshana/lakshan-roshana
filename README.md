@@ -14,7 +14,7 @@
 - 💬 Ask me about anything related to:
   - Backend: `ASP.NET Core`, `Node.js`
   - Frontend: `Angular`, `HTML`, `CSS`, `JavaScript`
-  - Programming: `Java`, `Python`, `C`,'C#'
+  - Programming: `Java`, `Python`, `C`,`C#`
   - Databases: `MongoDB`, `MySQL`
 
 ---
