@@ -16,6 +16,8 @@
   - Frontend: `Angular`, `HTML`, `CSS`, `JavaScript`
   - Programming: `Java`, `Python`, `C`,`C#`
   - Databases: `MongoDB`, `MySQL`
+  - Cloud:`Azure(Basic)`
+  - Cyber Security:`Linux Fundamentals`,`tryhackme labs`,`networking (Basic)`
 
 ---
 
