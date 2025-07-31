@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan-roshana&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=lakshan-roshana&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
